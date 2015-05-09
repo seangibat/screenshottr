@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "screenshottr",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "An extension to take a screenshot and upload it to imgur.",
+    "description": "The description of the application"
+  }
+}
